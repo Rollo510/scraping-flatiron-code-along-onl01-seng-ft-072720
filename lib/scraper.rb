@@ -38,7 +38,7 @@ class Scraper
       end
     end
 end
-
+end
 
 
 
